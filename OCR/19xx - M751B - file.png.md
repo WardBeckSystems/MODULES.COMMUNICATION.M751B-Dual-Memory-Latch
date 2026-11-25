@@ -1,5 +1,5 @@
 # 19xx - M751B - file.png
-Wiki page: [M751B](../../../PAGES/M751B.md)
+Wiki page: [M751B](../../../../PAGES/M751B.md)
 
 
 - **Year:** unknown (unknown)
@@ -23,7 +23,7 @@ Wiki page: [M751B](../../../PAGES/M751B.md)
 
 ```json
 {
- "file": "Modules/COMMUNICATION/M751B/19xx - M751B - file.png",
+ "file": "Modules/COMMUNICATION/M751B/PHOTOS/19xx - M751B - file.png",
  "sha256": "d43c050c2361fbbbe1aa0ef68543b9960a6518150980f7996a81059e9b088862",
  "kind": "module",
  "models": [
