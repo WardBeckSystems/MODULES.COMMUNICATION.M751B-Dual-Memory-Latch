@@ -1,5 +1,5 @@
 # 19xx - M751B - file.png
-Wiki page: [M751B](../../../../PAGES/M751B.md)
+Wiki page: [M751B](../)
 
 
 - **Year:** unknown (unknown)
